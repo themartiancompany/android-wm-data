@@ -8,14 +8,10 @@ the `alt-tab` command in action.
 
 <div
    align="center">
-  <video
+  <img
      width="500"
-     controls>
-     <source
-        src="alt-tab.mp4"
-        src="https://raw.githubusercontent.com/themartiancompany/android-wm-data/17b020923acc555289f70e319d3ac6d50775bb8c/alt-tab.mp4"
-        type="video/mp4">
-  </video>
+     src="https://raw.githubusercontent.com/themartiancompany/android-wm-data/17b020923acc555289f70e319d3ac6d50775bb8c/alt-tab.gif"
+  />
 </div>
 
 ### License
