@@ -5,13 +5,13 @@ the `alt-tab` command in action:
 
 <div
    align="center">
-  <a
-     href="ur.png">
-    <video
-       src="alt-tab.mp4"
-       width="500"
-    />
-  </a>
+  <video
+     width="500"
+     controls>
+     <source
+        src="alt-tab.mp4"
+        type="video/mp4">
+  </video>
 </div>
 
 ### License
