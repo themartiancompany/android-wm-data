@@ -10,7 +10,7 @@ the `alt-tab` command in action.
    align="center">
   <img
      width="500"
-     src="https://raw.githubusercontent.com/themartiancompany/android-wm-data/17b020923acc555289f70e319d3ac6d50775bb8c/alt-tab.gif"
+     src="https://raw.githubusercontent.com/themartiancompany/android-wm-data/5963cbe990b5596a59e928332cf1a0b21b6874d5/alt-tab.gif"
   />
 </div>
 
