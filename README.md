@@ -36,6 +36,6 @@ This repository contains the
 
 ### License
 
-The Ur is written
+The Android Window Manager (`android-wm`) is written
 and developed by Pellegrino Prevete and released under the
 terms of the GNU Affero General Public License version 3.
