@@ -1,7 +1,10 @@
 # Alt-Tab
 
-Here is a short video of showing
-the `alt-tab` command in action:
+Here is a
+[short video](
+  https://raw.githubusercontent.com/themartiancompany/android-wm-data/17b020923acc555289f70e319d3ac6d50775bb8c/alt-tab.mp4)
+showing
+the `alt-tab` command in action.
 
 <div
    align="center">
