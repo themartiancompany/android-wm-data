@@ -31,8 +31,10 @@ This repository contains the
   https://github.com/themartiancompany/evmfs)
 (`android-wm`) static binary data.
 
-- [Alt-Tab](
+- [`alt-tab`](
      Alt-Tab.md)
+- [`windows-info`](
+     Windows-Info.md)
 
 ### License
 
